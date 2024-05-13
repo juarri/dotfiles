@@ -1,3 +1,0 @@
-
-[default_session]
-startup_command = "nvim +GoToFile"
