@@ -32,11 +32,11 @@ foreground = "0xa6accd"
 background = "0xadd7ff"
 foreground = "0x1b1e28"
 
-[colors.search.matches]
+[colors.footer_bar]
 background = "0xadd7ff"
 foreground = "0x1b1e28"
 
-[colors.footer_bar]
+[colors.search.matches]
 background = "0xadd7ff"
 foreground = "0x1b1e28"
 
@@ -47,6 +47,9 @@ text = "CellForeground"
 [colors.vi_mode_cursor]
 cursor = "CellForeground"
 text = "CellBackground"
+
+[env]
+TERM = "xterm-256color"
 
 [font]
 size = 11.0
