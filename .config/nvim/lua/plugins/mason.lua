@@ -21,8 +21,11 @@ return {
       "angular-language-server",
       "rust-analyzer",
       "prettier",
+      "biome",
+      "unocss-language-server",
       "vue-language-server",
       "zls",
+      "taplo",
     },
   },
 }
