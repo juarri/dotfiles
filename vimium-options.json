@@ -1,0 +1,21 @@
+{
+  "settingsVersion": "2.1.2",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://mail.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://krunker.io/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://tagpro.koalabeast.com/*"
+    },
+    {
+      "passKeys": "j, l",
+      "pattern": "https?://www.youtube.com/*"
+    }
+  ]
+}
