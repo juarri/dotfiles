@@ -19,6 +19,8 @@ alias bc='better-commits'
 
 alias df='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' 
 
+alias pipes='pipes-rs -p 100 -r 0' 
+
 PATH="$PATH":"$HOME/.local/bin/"
 
 bindkey -s ^f "tmux-sessionizer\n"
