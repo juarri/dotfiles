@@ -1,53 +1,5 @@
 live_config_reload = true
 
-[colors.bright]
-black = "0xa6accd"
-blue = "0xadd7ff"
-cyan = "0x89ddff"
-green = "0x5de4c7"
-magenta = "0xfae4fc"
-red = "0xd0679d"
-white = "0xffffff"
-yellow = "0xfffac2"
-
-[colors.cursor]
-cursor = "CellForeground"
-text = "CellBackground"
-
-[colors.normal]
-black = "0x1b1e28"
-blue = "0x89ddff"
-cyan = "0xadd7ff"
-green = "0x5de4c7"
-magenta = "0xfcc5e9"
-red = "0xd0679d"
-white = "0xffffff"
-yellow = "0xfffac2"
-
-[colors.primary]
-background = "0x1b1e28"
-foreground = "0xa6accd"
-
-[colors.search.focused_match]
-background = "0xadd7ff"
-foreground = "0x1b1e28"
-
-[colors.footer_bar]
-background = "0xadd7ff"
-foreground = "0x1b1e28"
-
-[colors.search.matches]
-background = "0xadd7ff"
-foreground = "0x1b1e28"
-
-[colors.selection]
-background = "0x303340"
-text = "CellForeground"
-
-[colors.vi_mode_cursor]
-cursor = "CellForeground"
-text = "CellBackground"
-
 [env]
 TERM = "xterm-256color"
 
@@ -66,3 +18,44 @@ opacity = 1.0
 [window.padding]
 x = 0
 y = 0
+
+# TokyoNight Alacritty Colors
+# Default colors
+[colors.primary]
+background = '#222436'
+foreground = '#c8d3f5'
+
+#[colors.cursor]
+#cursor = '#c8d3f5'
+#text = '#222436'
+
+# Normal colors
+[colors.normal]
+black = '#1b1d2b'
+red = '#ff757f'
+green = '#c3e88d'
+yellow = '#ffc777'
+blue = '#82aaff'
+magenta = '#c099ff'
+cyan = '#86e1fc'
+white = '#828bb8'
+
+# Bright colors
+[colors.bright]
+black = '#444a73'
+red = '#ff757f'
+green = '#c3e88d'
+yellow = '#ffc777'
+blue = '#82aaff'
+magenta = '#c099ff'
+cyan = '#86e1fc'
+white = '#c8d3f5'
+
+# Indexed Colors
+[[colors.indexed_colors]]
+index = 16
+color = '#ff966c'
+
+[[colors.indexed_colors]]
+index = 17
+color = '#c53b53'
