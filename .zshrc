@@ -79,3 +79,7 @@ case ":$PATH:" in
   *) export PATH="$PNPM_HOME:$PATH" ;;
 esac
 # pnpm end
+
+# fly.io
+export FLYCTL_INSTALL="/home/juarri/.fly"
+export PATH="$FLYCTL_INSTALL/bin:$PATH"
