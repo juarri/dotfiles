@@ -1,3 +1,5 @@
+# Add deno completions to search path
+if [[ ":$FPATH:" != *":/home/juarri/.zsh/completions:"* ]]; then export FPATH="/home/juarri/.zsh/completions:$FPATH"; fi
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000
@@ -83,3 +85,4 @@ esac
 # fly.io
 export FLYCTL_INSTALL="/home/juarri/.fly"
 export PATH="$FLYCTL_INSTALL/bin:$PATH"
+. "/home/juarri/.deno/env"

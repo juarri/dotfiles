@@ -14,3 +14,5 @@ export PATH="/home/juarri/.local/share/fnm:$PATH"
 eval "$(fnm env)"
 
 . "$HOME/.cargo/env"
+. "/home/juarri/.deno/env"
+source /home/juarri/.local/share/bash-completion/completions/deno.bash

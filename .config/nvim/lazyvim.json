@@ -1,7 +1,5 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.copilot",
-    "lazyvim.plugins.extras.coding.copilot-chat",
     "lazyvim.plugins.extras.coding.luasnip",
     "lazyvim.plugins.extras.coding.mini-comment",
     "lazyvim.plugins.extras.coding.mini-surround",
@@ -16,11 +14,13 @@
     "lazyvim.plugins.extras.editor.mini-files",
     "lazyvim.plugins.extras.editor.mini-move",
     "lazyvim.plugins.extras.editor.outline",
+    "lazyvim.plugins.extras.formatting.biome",
     "lazyvim.plugins.extras.formatting.prettier",
     "lazyvim.plugins.extras.lang.angular",
     "lazyvim.plugins.extras.lang.astro",
     "lazyvim.plugins.extras.lang.docker",
     "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.gleam",
     "lazyvim.plugins.extras.lang.go",
     "lazyvim.plugins.extras.lang.json",
     "lazyvim.plugins.extras.lang.markdown",
@@ -35,6 +35,7 @@
     "lazyvim.plugins.extras.lang.typescript",
     "lazyvim.plugins.extras.lang.vue",
     "lazyvim.plugins.extras.lang.yaml",
+    "lazyvim.plugins.extras.lang.zig",
     "lazyvim.plugins.extras.linting.eslint",
     "lazyvim.plugins.extras.test.core",
     "lazyvim.plugins.extras.ui.edgy",
@@ -47,7 +48,7 @@
     "lazyvim.plugins.extras.util.octo"
   ],
   "news": {
-    "NEWS.md": "6520"
+    "NEWS.md": "10960"
   },
-  "version": 6
+  "version": 7
 }
