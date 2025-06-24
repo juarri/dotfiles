@@ -26,5 +26,8 @@ return {
       "rust",
       "zig",
     },
+    highlight = {
+      enable = true,
+    },
   },
 }
