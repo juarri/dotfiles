@@ -1,0 +1,4 @@
+/home/juarri/Projects/Modeling/Drum Kit/drum-kit.blend
+/home/juarri/Projects/Modeling/Drum Kit/Snare/snare.blend
+/home/juarri/Projects/Modeling/Donut/donut.blend
+/home/juarri/Projects/Modeling/donut.blend

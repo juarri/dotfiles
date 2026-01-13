@@ -1,0 +1,11 @@
+[Bookmarks]
+/home/juarri/Projects/
+/home/juarri/Projects/Modeling/
+[Recent]
+/home/juarri/Projects/Web/music-app/public/model/
+/home/juarri/Projects/Modeling/Drum Kit/
+/home/juarri/Projects/Modeling/Drum Kit/Snare/
+/home/juarri/Projects/Modeling/Donut/
+/home/juarri/Downloads/QuartziteDenali002/
+/home/juarri/Projects/Modeling/
+/home/juarri/Pictures/

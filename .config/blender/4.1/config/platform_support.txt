@@ -1,0 +1,2 @@
+{Intel/Mesa Intel(R) Xe Graphics (TGL GT2)/4.6 (Core Profile) Mesa 24.0.4-arch1.2}=SUPPORTED
+{Intel/Mesa Intel(R) Xe Graphics (TGL GT2)/4.6 (Core Profile) Mesa 24.0.5-arch1.1}=SUPPORTED

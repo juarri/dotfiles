@@ -1,0 +1,14 @@
+2025/11/29-19:18:39.745 8e2f3 Reusing MANIFEST /home/juarri/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/29-19:18:39.746 8e2f3 Recovering log #755
+2025/11/29-19:18:39.754 8e2f3 Reusing old log /home/juarri/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000755.log 
+2025/11/29-19:18:39.755 8e2f3 Delete type=2 #752
+2025/11/29-19:18:39.755 8e2f3 Delete type=2 #753
+2025/11/29-19:18:39.755 8e2f3 Delete type=2 #756
+2025/11/29-19:18:42.191 8e2f3 Level-0 table #761: started
+2025/11/29-19:18:42.214 8e2f3 Level-0 table #761: 971071 bytes OK
+2025/11/29-19:18:42.215 8e2f3 Delete type=0 #755
+2025/11/29-19:18:42.245 8e2f3 Compacting 1@1 + 2@2 files
+2025/11/29-19:18:42.307 8e2f3 Generated table #762@1: 16817 keys, 2175795 bytes
+2025/11/29-19:18:42.339 8e2f3 Generated table #763@1: 5093 keys, 1628298 bytes
+2025/11/29-19:18:42.339 8e2f3 Compacted 1@1 + 2@2 files => 3804093 bytes
+2025/11/29-19:18:42.340 8e2f3 compacted to: files[ 0 0 2 0 0 0 0 ]

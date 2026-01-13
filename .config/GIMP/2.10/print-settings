@@ -1,0 +1,20 @@
+[meta]
+major-version=0
+minor-version=4
+
+[print-settings]
+scale=100
+number-up=1
+reverse=false
+output-uri=file:///home/juarri/output.pdf
+page-set=all
+printer=Print to File
+print-pages=all
+collate=false
+output-file-format=pdf
+
+[image-setup]
+unit=5
+center-mode=0
+use-full-page=false
+crop-marks=false

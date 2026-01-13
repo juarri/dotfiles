@@ -1,0 +1,32 @@
+  Donut
+Color ▸ Hue/Saturation/Value
+Image Texture ▸ Color
+Vector ▸ Normal Map
+   Donut Base
+Geometry ▸ Write ▸ Set Position
+Point ▸ Distribute Points on Faces
+Geometry ▸ Join Geometry
+Mesh ▸ Primitives ▸ UV Sphere
+Instances ▸ Instance on Points
+Named Attribute ▸ Attribute
+Instance ▸sprinkle_density|Float
+  Sphere
+  Cylinder
+   Material.004
+Generate ▸ Boolean
+Light ▸ Sun
+Mesh ▸ UV Sphere
+  Snare Stand Body
+  Camera
+
+Volume ▸ Empty
+Generate ▸ Array
+  Volume
+Mesh ▸ Plane
+Mesh ▸ Cylinder
+   Material.006
+   Material.007
+ 0 Material
+   Material.001
+ 0 Material.008
+   Material.008
